@@ -1,7 +1,7 @@
 ## Scientific Projects
 This is a collection of my favorite data visualizations and schemes created for scientific publications and presentations.
 
-#
+***
 
 ### Scientific Figures created with `{ggplot2}`
 
