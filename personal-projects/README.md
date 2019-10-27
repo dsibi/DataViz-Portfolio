@@ -28,7 +28,7 @@ The first (and until now unfortunately only) episode is a tutorial for [my contr
 
 #
 
-#### A Personalized 404 Error Page
+#### A Personalized [404 Error Page](https://cedricscherer.netlify.com/this/should/not/work)
 To make the page a bit more me, I've designed a unique error page that honors the main content and tool on my blog - `{ggplot2}`.
 
 #
