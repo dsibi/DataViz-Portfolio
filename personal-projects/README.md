@@ -40,6 +40,8 @@ To make the page a bit more me, I've designed a unique error page that honors th
 ### Berlin Weather Data (work in progress)
 Recently, I've started to play around with Berlin weather data (mainly temperatures and precipitation) provided by the [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html) with daily resolution dating back to 1886. Here are some of the plots I've created for a multi-panel data visualization and info graphic. I've also used this data to create animated bar chart races as a demonstration of `{ggplot2}` capabilities ([read more about why](https://cedricscherer.netlify.com/2019/09/17/bar-chart-race-temperatures-berlin/)).
 
+#
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png)
 
 #
@@ -60,8 +62,35 @@ Recently, I've started to play around with Berlin weather data (mainly temperatu
 
 ***
 
+### Baby Girl Names (work in progress)
+An analysis of girl names that I've started when my daughter was born and I recently picked up again to finally turn it into a blog post.
+
+#
+
+![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_1.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_1.png)
+
+#
+
+![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_2.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_2.png)
+
+#
+
+![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_3.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_3.png)
+
+#
+
+![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_4.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_4.png)
+
+#
+
+![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_5.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_5.png)
+
+***
+
 ### DataViz Teaching
 Figures created for data visualization workshops.
+
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png)
 
