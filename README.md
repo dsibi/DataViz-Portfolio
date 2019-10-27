@@ -3,7 +3,7 @@
 This is a collection of my favorite data visualizations created for different purposes.
 Most of them were created using the R package `{ggplot2}`.
 
-***
+#
 
 ### [Challenge Contributions](https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges)
 
@@ -11,21 +11,21 @@ I participate in various data visualization challenges, mostly [#TidyTuesday](ht
 
 <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
 
-***
+#
 
 ### [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
 
 For my research, I draft many explorative and publication-ready figures with `{ggplot2}` as well as designed schemes and overviews.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_science.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/_header_science.png)</a>
 
-***
+#
 
 ### [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
 
 During my spare time, I create visualizations for different purposes such as short and long tutorials that I've published on [my blog](www.cedricscherer.netlify.com) and illustrations for teaching purposes. Recently, I also started personal data visualization projects to broaden my portfolio.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_personal.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/_header_personal.png)</a>
 
 ***
 
