@@ -16,13 +16,13 @@ A (planned) series of blog posts with the aim to provide a step-by-step tutorial
 The first (and until now unfortunately only) episode is a tutorial for [my contribution](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_19) to the [#TidyTuesday challenge of week 2019/19](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-07) and received much attention by the R community on Twitter (for example [here](https://twitter.com/CedScherer/status/1129453356756492293) and [here](https://twitter.com/robinson_es/status/1158792970042269696)).
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png)
-<br><br>
+
+***
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif)
-<br><br>
 
 ### A Personalized 404 Error Page
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png)
-<br>
 
 ***
 
@@ -30,17 +30,23 @@ The first (and until now unfortunately only) episode is a tutorial for [my contr
 Recently, I've started to play around with Berlin weather data (mainly temperatures and precipitation) provided by the [DWD (Deutscher Wetterdienst)]() with daily resolution dating back to 1886. Here are some of the plots I've created for a multi-panel data visualization and info graphic.
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png)
-<br><br>
+
+***
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_diff_dec.png)
-<br><br>
+
+***
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png)
-<br><br>
+
+***
 
 I've also used this data to create animated bar chart races as a demonstration what `{ggplot2}` is able to do ([read more about it](https://cedricscherer.netlify.com/2019/09/17/bar-chart-race-temperatures-berlin/)).
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif)
-<br><br>
+
+***
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dect.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dec.gif)
-<br>
 
 ***
 
@@ -48,9 +54,10 @@ I've also used this data to create animated bar chart races as a demonstration w
 Figures created for data visualization workshops.
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png)
-<br><br>
+
+***
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif)
-<br>
 
 ***
 
