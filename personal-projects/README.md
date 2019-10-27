@@ -3,7 +3,7 @@ This is a collection of my favorite data visualizations created for personal pur
 
 ***
 
-### Viualizations for my Personal Blog [cedricscherer.netlify.com](www.cedricscherer.netlify.com)
+### Visualizations for my Personal Blog [cedricscherer.netlify.com](www.cedricscherer.netlify.com)
 
 #### [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 Begin of 2016, I started using `{ggplot2}` to visualize my research data. Starting by try'n'error, the resource I came always back to was a blog entry called Beautiful plotting in R: A ggplot2 cheatsheet by Zev Ross. To learn and especially understand the complexity of `{ggplot2}` with all it's opportunities, I decided to go through this tutorial step-by-step and - since it was not updated since quite a while - I directly started modifying the codes and adding additional code snippets, chart types and resources. The full tutorial is [hosted on my blog](www.cedricscherer.netlify.com). Here is a sneak peak of the variety of charts and plot twists contained in this resource:
@@ -18,11 +18,11 @@ The first (and until now unfortunately only) episode is a tutorial for [my contr
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif)
 
-***
+#
 
 #### A Personalized 404 Error Page
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png)
@@ -34,19 +34,19 @@ Recently, I've started to play around with Berlin weather data (mainly temperatu
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_diff_dec.png)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dect.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dec.gif)
 
@@ -57,7 +57,7 @@ Figures created for data visualization workshops.
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png)
 
-***
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif)
 
