@@ -9,7 +9,7 @@ Most of them were created using the R package `{ggplot2}`.
 
 I participate in various data visualization challenges, mostly [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) but also [MakeoverMonday](https://www.makeovermonday.co.uk/) and the [SWD challenge](http://www.storytellingwithdata.com/swdchallenge). All contributions were created in `{ggplot2}` without any post-editing.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/header/header_challenges.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
 
 ***
 
@@ -17,7 +17,7 @@ I participate in various data visualization challenges, mostly [#TidyTuesday](ht
 
 For my research, I draft many explorative and publication-ready figures with `{ggplot2}` as well as designed schemes and overviews.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/header/header_science.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_science.png)</a>
 
 ***
 
@@ -25,7 +25,7 @@ For my research, I draft many explorative and publication-ready figures with `{g
 
 During my spare time, I create visualizations for different purposes such as short and long tutorials that I've published on [my blog](www.cedricscherer.netlify.com) and illustrations for teaching purposes. Recently, I also started personal data visualization projects to broaden my portfolio.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/header/header_personal.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_personal.png)</a>
 
 ***
 
