@@ -79,7 +79,7 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 #### ⁠📱📴 Smart Phone Use (Week 34/2019)
 ![./plots/2019_34_phone-use.png](https://github.com/Z3tt/MakeoverMonday/blob/master/plots/2019_34_phone-use.png)
 
-#
+***
 
 ### [SWD challenge](#swdchallenge)
 The [SWD challenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
