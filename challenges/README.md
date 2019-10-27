@@ -5,11 +5,14 @@ This is a collection of my favorite data visualizations created as contributions
 * [MakeoverMonday](#makeovermonday)
 * [SWD (Storytelling with Data)](#swdchallenge)
 
+***
+
 ### [TidyTuesday](#tidytuesday)
 The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.
 
 All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
-<br>
+
+#
 
 #### 🚘 Big Cars by [EPA](https://www.fueleconomy.gov/feg/download.shtml) (Week 2019/42)
 ![./plots/2019_42/2019_42_big_cars_highway.gif](https://github.com/Z3tt/TidyTuesday/blob/master/plots/2019_42/2019_42_big_cars_highway.gif)
@@ -65,7 +68,8 @@ All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 The [MakeoverMonday challenge]([MakeoverMonday](https://www.makeovermonday.co.uk/) is a weekly social data project started in January 2016 by Andy Kriebel and Andy Cotgreave. The challenge is to use an existing data set and visualization and to turn it into a better, more effective visualization that helps us make information more accessible.
 
 All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
-<br>
+
+#
 
 #### ⁠😟 Deaths by Suicide and Drug Poisoning (Week 43/2019)
 ![./plots/2019_43_suicide_deaths.png](https://github.com/Z3tt/MakeoverMonday/blob/master/plots/2019_43_suicide_deaths.png)
@@ -81,7 +85,8 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 The [SWD challenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
 
 All contributions can be found [here](https://github.com/Z3tt/SWDchallenge/).
-<br>
+
+#
 
 #### ❓ Visualizing Uncertainty (September 2019)
  Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html)<br>
