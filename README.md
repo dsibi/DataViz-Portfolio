@@ -11,7 +11,7 @@ I participate in various data visualization challenges, mostly [#TidyTuesday](ht
 
 <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
 
-#
+***
 
 ### [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
 
@@ -19,7 +19,7 @@ For my research, I draft many explorative and publication-ready figures with `{g
 
 <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_science.png)</a>
 
-#
+***
 
 ### [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
 
