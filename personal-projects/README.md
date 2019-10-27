@@ -9,7 +9,8 @@ This is a collection of my favorite data visualizations created for personal pur
 Begin of 2016, I started using `{ggplot2}` to visualize my research data. Starting by try'n'error, the resource I came always back to was a blog entry called Beautiful plotting in R: A ggplot2 cheatsheet by Zev Ross. To learn and especially understand the complexity of `{ggplot2}` with all it's opportunities, I decided to go through this tutorial step-by-step and - since it was not updated since quite a while - I directly started modifying the codes and adding additional code snippets, chart types and resources. The full tutorial is [hosted on my blog](www.cedricscherer.netlify.com). Here is a sneak peak of the variety of charts and plot twists contained in this resource:
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/ggplot-tutorial-overview.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/ggplot-tutorial-overview.png)
-<br><br>
+
+***
 
 ### [The Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 A (planned) series of blog posts with the aim to provide a step-by-step tutorial explaining how my visualization have evolved from a typical basic ggplot.
@@ -21,13 +22,15 @@ The first (and until now unfortunately only) episode is a tutorial for [my contr
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif)
 
+***
+
 ### A Personalized 404 Error Page
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png)
 
 ***
 
 ## Berlin Weather Data (work in progress)
-Recently, I've started to play around with Berlin weather data (mainly temperatures and precipitation) provided by the [DWD (Deutscher Wetterdienst)]() with daily resolution dating back to 1886. Here are some of the plots I've created for a multi-panel data visualization and info graphic.
+Recently, I've started to play around with Berlin weather data (mainly temperatures and precipitation) provided by the [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html) with daily resolution dating back to 1886. Here are some of the plots I've created for a multi-panel data visualization and info graphic. I've also used this data to create animated bar chart races as a demonstration of `{ggplot2}` capabilities ([read more about why](https://cedricscherer.netlify.com/2019/09/17/bar-chart-race-temperatures-berlin/)).
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png)
 
@@ -41,7 +44,6 @@ Recently, I've started to play around with Berlin weather data (mainly temperatu
 
 ***
 
-I've also used this data to create animated bar chart races as a demonstration what `{ggplot2}` is able to do ([read more about it](https://cedricscherer.netlify.com/2019/09/17/bar-chart-race-temperatures-berlin/)).
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif)
 
 ***
