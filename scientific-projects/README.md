@@ -5,6 +5,8 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 ### Figures created in `{ggplot2}`
 
+#
+
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/distances.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/distances.png)
 
 #
@@ -38,6 +40,8 @@ This is a collection of my favorite data visualizations and schemes created for 
 ***
 
 ### Schemes (partly created in `{ggplot2}`)
+
+#
 
 ![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/framework.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/framework.png)
 
