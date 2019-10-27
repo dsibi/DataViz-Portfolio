@@ -5,27 +5,27 @@ Most of them were created using the R package `{ggplot2}`.
 
 ***
 
-## Challenge Contributions
+## [Challenge Contributions](https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges)
 
 I participate in various data visualization challenges, mostly [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) but also [MakeoverMonday](https://www.makeovermonday.co.uk/) and the [SWD challenge](http://www.storytellingwithdata.com/swdchallenge). All contributions were created in `{ggplot2}` without any post-editing.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
 
 ***
 
-## Scientific Figures
+## [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
 
 For my research, I draft many explorative and publication-ready figures with `{ggplot2}` as well as designed schemes and overviews.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_science.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_science.png)</a>
 
 ***
 
-## Personal Projects
+## [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
 
 During my spare time, I create visualizations for different purposes such as short and long tutorials that I've published on [my blog](www.cedricscherer.netlify.com) and illustrations for teaching purposes. Recently, I also started personal data visualization projects to broaden my portfolio.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="some text">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_personal.png)</a>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_personal.png)</a>
 
 ***
 
