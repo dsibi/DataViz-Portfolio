@@ -70,12 +70,13 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 ***
 
 ## [SWD challenge](#swdchallenge)
-The [SWD challenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where particioants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
+The [SWD challenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
 
 All contributions can be found [here](https://github.com/Z3tt/SWDchallenge/).
 <br>
 
-### Visualizing Uncertainty: Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html) (September 2019)
+### ❓ Visualizing Uncertainty (September 2019)
+ Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html)<br>
 ![./plots/2019_09/SWD_2019_09_Uncertainty.png](https://github.com/Z3tt/SWDchallenge/blob/master/plots/2019_09/SWD_2019_09_Uncertainty.png)
 
 ***
