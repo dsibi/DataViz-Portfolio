@@ -3,7 +3,7 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 #
 
-### Figures created in `{ggplot2}`
+### Scientific Figures created with `{ggplot2}`
 
 #
 
@@ -39,7 +39,7 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 ***
 
-### Schemes (partly created in `{ggplot2}`)
+### Explanatory Schemes and Overviews (partly created with `{ggplot2}`)
 
 #
 
