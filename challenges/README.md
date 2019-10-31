@@ -14,6 +14,11 @@ All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 
 #
 
+### 🐿️ NYC Squirrels by [Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) (Week 2019/44)
+![./plots/2019_44/2019_44_squirrels.png](https://github.com/Z3tt/TidyTuesday/blob/master/plots/2019_44/2019_44_squirrels.png)
+
+#
+
 #### 🚘 Big Cars by [EPA](https://www.fueleconomy.gov/feg/download.shtml) (Week 2019/42)
 ![./plots/2019_42/2019_42_big_cars_highway.gif](https://github.com/Z3tt/TidyTuesday/blob/master/plots/2019_42/2019_42_big_cars_highway.gif)
 
@@ -73,6 +78,11 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 
 #### ⁠😟 Deaths by Suicide and Drug Poisoning (Week 43/2019)
 ![./plots/2019_43_suicide_deaths.png](https://github.com/Z3tt/MakeoverMonday/blob/master/plots/2019_43_suicide_deaths.png)
+
+#
+
+### 🏊🚴🏃 Ironman World Championship (Week 42/2019)
+![./plots/2019_42_ironman.png](https://github.com/Z3tt/MakeoverMonday/blob/master/plots/2019_42_ironman.png)
 
 #
 
