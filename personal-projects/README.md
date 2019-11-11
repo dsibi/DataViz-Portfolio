@@ -10,7 +10,7 @@ Begin of 2016, I started using `{ggplot2}` to visualize my research data. Starti
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/ggplot-tutorial-overview.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/ggplot-tutorial-overview.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/ggplot-tutorial-overview.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/ggplot-tutorial-overview.png)
 
 ***
 
@@ -20,11 +20,11 @@ The first (and until now unfortunately only) episode is a tutorial for [my contr
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/evol-ggplot-1.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/evol-ggplot-1.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/evol-ggplot-1.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/evol-ggplot-1.gif)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/evol-ggplot-1.gif](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/evol-ggplot-1.gif)
 
 #
 
@@ -33,7 +33,7 @@ To make the page a bit more me, I've designed a unique error page that honors th
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/404-gg.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/404-gg.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/404-gg.png)
 
 ***
 
@@ -42,23 +42,23 @@ Recently, I've started to play around with Berlin weather data (mainly temperatu
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_max.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_max.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_max.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_diff_dec.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_diff_dec.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/berlin_temp_days.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_days.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/berlin_temp_days.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_max_scico_long_fast.gif)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/dwd_anim_max_scico_long_fast.gif](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/dwd_anim_max_scico_long_fast.gif)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dect.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/dwd_anim_diff_dec.gif)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/dwd_anim_diff_dect.gif](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/dwd_anim_diff_dec.gif)
 
 ***
 
@@ -67,23 +67,23 @@ An analysis of girl names that I've started when my daughter was born and I rece
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_1.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_1.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_1.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_1.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_2.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_2.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_2.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_2.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_3.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_3.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_3.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_3.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_4.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_4.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_4.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_4.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_5.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/girlnames_5.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_5.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/girlnames_5.png)
 
 ***
 
@@ -92,11 +92,11 @@ Figures created for data visualization workshops.
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/charts_raw_panel.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/charts_raw_panel.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/personal-projects/charts_raw_panel.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif](https://github.com/Z3tt/DataViz-Portfolio/blob/master/animations/datasauRus.gif)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/datasauRus.gif](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/animations/datasauRus.gif)
 
 ***
 

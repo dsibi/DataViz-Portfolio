@@ -7,35 +7,35 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/distances.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/distances.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/distances.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/distances.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/effects.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/effects.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/effects.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/effects.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/map.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/map.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/map.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/map.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/rainclouds.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/rainclouds.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/rainclouds.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/rainclouds.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/fitting.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/fitting.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/fitting.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/fitting.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/dynamics.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/dynamics.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/dynamics.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/dynamics.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/data_time.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/data_time.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/data_time.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/data_time.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/spread.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/spread.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/spread.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/spread.png)
 
 ***
 
@@ -43,11 +43,11 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/framework.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/framework.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/framework.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/framework.png)
 
 #
 
-![https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/models.png](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/models.png)
+![https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/models.png](https://raw.githubusercontent.com/Z3tt/DataViz-Portfolio/master/scientific-projects/models.png)
 
 ***
 
