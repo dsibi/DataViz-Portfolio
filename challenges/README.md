@@ -128,7 +128,7 @@ All contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/
 #
 
 #### Elevation (Day 11)
-![./Day11_Elevation/.png]((https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day11_Elevation_Rayshader_Germany_HD.png.png)
+![./Day11_Elevation/Elevation_Rayshader_Germany_HD.png]((https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day11_Elevation/Elevation_Rayshader_Germany_HD.png)
 
 ***
 
