@@ -1,4 +1,7 @@
-## Challenge Contributions
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Challenge Contributions&nbsp;
+</h1>
+
 This is a collection of my favorite data visualizations created as contributions in various challenges:
 
 * [#TidyTuesday](#tidytuesday)
@@ -100,7 +103,7 @@ All contributions can be found [here](https://github.com/Z3tt/SWDchallenge/).
 #
 
 #### 🤨 Visualizing Uncertainty (September 2019)
-Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html)<br>
+Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html)<br><br>
 ![./plots/2019_09/SWD_2019_09_Uncertainty.png](https://raw.githubusercontent.com/Z3tt/SWDchallenge/master/plots/2019_09/SWD_2019_09_Uncertainty.png)
 
 ***
