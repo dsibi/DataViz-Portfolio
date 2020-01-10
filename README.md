@@ -1,3 +1,33 @@
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Data Visualization Portfolio&nbsp;
+</h1>
+
+<div align="center">
+
+[:speech_balloon: Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:necktie: LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:octocat: GitHub][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:link: Website][Website]
+
+</div>
+
+<!--
+Quick Link
+-->
+
+[Twitter]:https://twitter.com/CedScherer
+[LinkedIn]:https://www.linkedin.com/in/cedricpscherer/
+[GitHub]:https://github.com/Z3tt
+[Website]:https://cedricscherer.netlify.com/
+
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+<!-- toc -->
+- [Challenge Contributions](https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges)
+- [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
+- [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
+<!-- tocstop -->
+
+</details>
+
 
 ## DataViz Portfolio
 This is a collection of my favorite data visualizations created for different purposes.
@@ -9,7 +39,9 @@ Most of them were created using the R package `{ggplot2}`.
 
 I participate in various data visualization challenges, mostly [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) but also [MakeoverMonday](https://www.makeovermonday.co.uk/) and the [SWD challenge](http://www.storytellingwithdata.com/swdchallenge). All contributions were created in `{ggplot2}` without any post-editing.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
+<p align="center">
+  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
+</p>
 
 #
 
@@ -17,7 +49,9 @@ I participate in various data visualization challenges, mostly [#TidyTuesday](ht
 
 For my research, I draft many explorative and publication-ready figures with `{ggplot2}` as well as designed schemes and overviews.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/_header_science.png)</a>
+<p align="center">
+  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/_header_science.png)</a>
+</p>
 
 #
 
@@ -25,7 +59,9 @@ For my research, I draft many explorative and publication-ready figures with `{g
 
 During my spare time, I create visualizations for different purposes such as short and long tutorials that I've published on [my blog](www.cedricscherer.netlify.com) and illustrations for teaching purposes. Recently, I also started personal data visualization projects to broaden my portfolio.
 
-<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/_header_personal.png)</a>
+<p align="center">
+  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/_header_personal.png)</a>
+</p>
 
 ***
 
