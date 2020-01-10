@@ -1,9 +1,15 @@
-## Scientific Projects
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Scientific Projects&nbsp;
+</h1>
+
 This is a collection of my favorite data visualizations and schemes created for scientific publications and presentations.
+
+* [Scientific Figures](#figs)
+* [Explanatory Schemes & Overviews](#expl)
 
 ***
 
-### Scientific Figures created with `{ggplot2}`
+### Scientific Figures created with `{ggplot2}` {#figs}
 
 #
 
@@ -39,7 +45,7 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 ***
 
-### Explanatory Schemes and Overviews (partly created with `{ggplot2}`)
+### Explanatory Schemes and Overviews (partly created with `{ggplot2}`) {#expl}
 
 #
 
