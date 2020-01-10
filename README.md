@@ -28,8 +28,6 @@ Quick Link
 
 </details>
 
-
-## DataViz Portfolio
 This is a collection of my favorite data visualizations created for different purposes.
 Most of them were created using the R package `{ggplot2}`.
 
@@ -39,9 +37,7 @@ Most of them were created using the R package `{ggplot2}`.
 
 I participate in various data visualization challenges, mostly [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) but also [MakeoverMonday](https://www.makeovermonday.co.uk/) and the [SWD challenge](http://www.storytellingwithdata.com/swdchallenge). All contributions were created in `{ggplot2}` without any post-editing.
 
-<p align="center">
-  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
-</p>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges" rel="challenge contributions">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/challenges/_header_challenges.png)</a>
 
 #
 
