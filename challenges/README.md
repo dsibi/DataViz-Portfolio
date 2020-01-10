@@ -16,12 +16,12 @@ All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 #
 
 ### 🐿️ NYC Squirrels by [Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw) (Week 2019/44)
-![./plots/2019_44/2019_44_squirrels_rev.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_44/2019_44_squirrels_rev.png)
+![./plots/2019_44/2019_44_squirrels_rev.png](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_44/2019_44_Squirrels_rev.png)
 
 #
 
 #### 🚘 Big Cars by [EPA](https://www.fueleconomy.gov/feg/download.shtml) (Week 2019/42)
-![./plots/2019_42/2019_42_big_cars_highway.gif](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_42/2019_42_big_cars_highway.gif)
+![./plots/2019_42/2019_42_big_cars_highway.gif](https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_42/2019_42_BigCars_Highway.gif)
 
 #
 
