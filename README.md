@@ -4,18 +4,7 @@
 
 <div align="center">
 
-[:speech_balloon: Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:necktie: LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:octocat: GitHub][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[:link: Website][Website]
-
-</div>
-
-<!--
-Quick Link
--->
-
-[Twitter]:https://twitter.com/CedScherer
-[LinkedIn]:https://www.linkedin.com/in/cedricpscherer/
-[GitHub]:https://github.com/Z3tt
-[Website]:https://cedricscherer.netlify.com/
+:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:octocat: [GitHub][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Website][Website]
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
@@ -27,6 +16,17 @@ Quick Link
 <!-- tocstop -->
 
 </details>
+
+</div>
+
+<!--
+Quick Link
+-->
+
+[Twitter]:https://twitter.com/CedScherer
+[LinkedIn]:https://www.linkedin.com/in/cedricpscherer/
+[GitHub]:https://github.com/Z3tt
+[Website]:https://cedricscherer.netlify.com/
 
 This is a collection of my favorite data visualizations created for different purposes.
 Most of them were created using the R package `{ggplot2}`.
@@ -45,9 +45,7 @@ I participate in various data visualization challenges, mostly [#TidyTuesday](ht
 
 For my research, I draft many explorative and publication-ready figures with `{ggplot2}` as well as designed schemes and overviews.
 
-<p align="center">
-  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/_header_science.png)</a>
-</p>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects" rel="scientific projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/scientific-projects/_header_science.png)</a>
 
 #
 
@@ -55,9 +53,7 @@ For my research, I draft many explorative and publication-ready figures with `{g
 
 During my spare time, I create visualizations for different purposes such as short and long tutorials that I've published on [my blog](www.cedricscherer.netlify.com) and illustrations for teaching purposes. Recently, I also started personal data visualization projects to broaden my portfolio.
 
-<p align="center">
-  <a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/_header_personal.png)</a>
-</p>
+<a href="https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects" rel="personal projects">![Foo](https://github.com/Z3tt/DataViz-Portfolio/blob/master/personal-projects/_header_personal.png)</a>
 
 ***
 
