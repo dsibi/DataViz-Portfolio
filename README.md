@@ -6,17 +6,6 @@
 
 :speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:octocat: [GitHub][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Website][Website]
 
-<details>
-  <summary><strong>Table of Contents</strong></summary>
-
-<!-- toc -->
-- [Challenge Contributions](https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges)
-- [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
-- [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
-<!-- tocstop -->
-
-</details>
-
 </div>
 
 <!--
@@ -30,6 +19,17 @@ Quick Link
 
 This is a collection of my favorite data visualizations created for different purposes.
 Most of them were created using the R package `{ggplot2}`.
+
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+<!-- toc -->
+- [Challenge Contributions](https://github.com/Z3tt/DataViz-Portfolio/tree/master/challenges)
+- [Scientific Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/scientific-projects)
+- [Personal Projects](https://github.com/Z3tt/DataViz-Portfolio/tree/master/personal-projects)
+<!-- tocstop -->
+
+</details>
 
 #
 
