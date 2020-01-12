@@ -6,10 +6,10 @@ This is a collection of my favorite data visualizations created for personal pur
 
 * [Personal Blog](#visualizations-for-my-personal-blog-cedricscherernetlifycom)
   - [A `ggplot2` Tutorial for Beautiful Plotting in R](#a-ggplot2-tutorial-for-beautiful-plotting-in-r)
-  - [The Evolution of a ggplot](#the-evolution-of-a-ggplot-evol)
+  - [The Evolution of a ggplot](#the-evolution-of-a-ggplot)
   - [A Personalized 404 Error Page](#a-personalized-404-error-page)
-  - [Berlin Weather Data (work in progress)](#berlin-weather-data-work-in-progress-weather)
-  - [Baby Girl Names (work in progress)](#baby-girl-names-work-in-progress-names)
+  - [Berlin Weather Data (work in progress)](#berlin-weather-data-work-in-progress)
+  - [Baby Girl Names (work in progress)](#baby-girl-names-work-in-progress)
 * [DataViz Teaching](#dataviz-teaching)
 
 ***
