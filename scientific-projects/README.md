@@ -4,12 +4,12 @@
 
 This is a collection of my favorite data visualizations and schemes created for scientific publications and presentations.
 
-* [Scientific Figures](#figs)
-* [Explanatory Schemes & Overviews](#expl)
+* [Scientific Figures](#scientific-figures-created-with-ggplot2)
+* [Explanatory Schemes & Overviews](#explanatory-schemes-and-overviews-partly-created-with-ggplot2)
 
 ***
 
-### Scientific Figures created with `{ggplot2}` {#figs}
+## Scientific Figures created with `{ggplot2}`
 
 #
 
@@ -45,7 +45,7 @@ This is a collection of my favorite data visualizations and schemes created for 
 
 ***
 
-### Explanatory Schemes and Overviews (partly created with `{ggplot2}`) {#expl}
+## Explanatory Schemes and Overviews (partly created with `{ggplot2}`)
 
 #
 
