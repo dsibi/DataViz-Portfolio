@@ -108,7 +108,7 @@ Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/D
 
 ***
 
-### [#30DayMapChallenge](#30daymapchallenge)
+### #30DayMapChallenge
 The [#30DayMapChallenge](https://twitter.com/tjukanov/status/1187713840550744066) is a mapping challenge initiated by Topi Tjukanov.
 
 All contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/).
@@ -126,12 +126,12 @@ All contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/
 #
 
 #### Blue, Green, Red & Yellow (Day 6 to 9)
-![./Day09_Yellow/BlueRedGreenYellow_BerlinPublicTransport.png]((https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day09_Yellow/BlueRedGreenYellow_BerlinPublicTransport.png)
+![./Day09_Yellow/BlueRedGreenYellow_BerlinPublicTransport.png](https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day09_Yellow/BlueRedGreenYellow_BerlinPublicTransport.png)
 
 #
 
 #### Elevation (Day 11)
-![./Day11_Elevation/Elevation_Rayshader_Germany_HD.png]((https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day11_Elevation/Elevation_Rayshader_Germany_HD.png)
+![./Day11_Elevation/Elevation_Rayshader_Germany_HD.png](https://raw.githubusercontent.com/Z3tt/30DayMapChallenge/master/Day11_Elevation/Elevation_Rayshader_Germany_HD.png)
 
 ***
 
