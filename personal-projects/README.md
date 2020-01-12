@@ -4,12 +4,13 @@
 
 This is a collection of my favorite data visualizations created for personal purposes and projects.
 
-* [Personal Blog](#blog)
+* [Personal Blog](#visualizations-for-my-personal-blog-cedricscherernetlifycom)
+  - [A `ggplot2` Tutorial for Beautiful Plotting in R](#a-ggplot2-tutorial-for-beautiful-plotting-in-r)
   - [The Evolution of a ggplot](#the-evolution-of-a-ggplot-evol)
-  - [A Personalized 404 Error Page](#404)
+  - [A Personalized 404 Error Page](#a-personalized-404-error-page)
   - [Berlin Weather Data (work in progress)](#berlin-weather-data-work-in-progress-weather)
   - [Baby Girl Names (work in progress)](#baby-girl-names-work-in-progress-names)
-* [DataViz Teaching](#teach)
+* [DataViz Teaching](#dataviz-teaching)
 
 ***
 
@@ -97,7 +98,7 @@ An analysis of girl names that I've started when my daughter was born and I rece
 
 ***
 
-## DataViz Teaching {#teach}
+## DataViz Teaching
 Figures created for data visualization workshops.
 
 #
