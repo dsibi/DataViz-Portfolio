@@ -11,7 +11,7 @@ This is a collection of my favorite data visualizations created as contributions
 
 ***
 
-### TidyTuesday {}#tidytuesday)
+### TidyTuesday
 The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.
 
 All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
@@ -73,7 +73,7 @@ All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 
 ***
 
-### [MakeoverMonday](#makeovermonday)
+### MakeoverMonday
 The [MakeoverMonday challenge]([MakeoverMonday](https://www.makeovermonday.co.uk/) is a weekly social data project started in January 2016 by Andy Kriebel and Andy Cotgreave. The challenge is to use an existing data set and visualization and to turn it into a better, more effective visualization that helps us make information more accessible.
 
 All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
@@ -95,7 +95,7 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 
 ***
 
-### [SWDchallenge](#swdchallenge)
+### SWDchallenge
 The [SWDchallenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
 
 All contributions can be found [here](https://github.com/Z3tt/SWDchallenge/).
