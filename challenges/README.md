@@ -12,7 +12,7 @@ This is a collection of my favorite data visualizations created as contributions
 ***
 
 ## TidyTuesday
-The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills. All my contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
+The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem. The project was founded in 2018 by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.   All my contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 
 <details>
   <summary><b>List of All Contributions</b> (click to expand)</summary>
