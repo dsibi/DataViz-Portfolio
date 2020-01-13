@@ -15,7 +15,7 @@ This is a collection of my favorite data visualizations created as contributions
 The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills. All my contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 
 <details>
-  <summary>List of All Contributions (click to expand)</summary>
+  <summary><b>List of All Contributions</b> (click to expand)</summary>
 
 <!-- toc -->
 * **Challenges 2018**
@@ -145,7 +145,7 @@ Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/D
 The [#30DayMapChallenge](https://twitter.com/tjukanov/status/1187713840550744066) is a mapping challenge initiated by Topi Tjukanov. All my contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/).
 
 <details>
-  <summary>List of All Contributions (click to expand)</summary>
+  <summary><b>List of All Contributions</b> (click to expand)</summary>
 
 <!-- toc -->
 * Day 1: [Points](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day01_Points)
