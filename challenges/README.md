@@ -12,9 +12,46 @@ This is a collection of my favorite data visualizations created as contributions
 ***
 
 ## TidyTuesday
-The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills.
+The [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday) is a weekly social data project that focusses on understanding how to summarize and arrange data to make meaningful charts with `{ggplot2}`, `{tidyr}`, `{dplyr}` and other tools that are part of the [`{tidyverse}`](https://www.tidyverse.org/) ecosystem founded by [Thomas Mock](https://thomasmock.netlify.com/) and organized by the [R4DS ("`R` for Data Science") online learning community](https://twitter.com/r4dscommunity). The intent is to provide a safe and supportive forum to practice their wrangling and data visualization skills. All my contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 
-All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
+<details>
+  <summary>List of All Contributions (click to expand)</summary>
+
+<!-- toc -->
+* **Challenges 2018**
+  - 2018/03 [⚱️ Global Mortality](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2018_03)
+  - 2018/33 [🏥 Malaria](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2018_33)
+* **Challenges 2019**
+  - 2019/14 [🚴 Seattle Bike Traffic](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_14)️
+  - 2019/16 [📊 The Economists' Data Viz Mistakes](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_16)️
+  - 2019/17 [🐉 Anime Data](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_17️)
+  - 2019/18 [🐥 Chicago Bird Collisions](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_18)️
+  - 2019/19 [👨‍🏫 Global Student to Teachers Ratios](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_19)️
+  - 2019/20 [🎖️ Nobel Prize Winners](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_20️)
+  - 2019/21 [🚮 Global Plastic Waste](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_21)️
+  - 2019/22 [🍷️ Wine Ratings](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_22️)
+  - 2019/24 [🌠 Meteorites](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_24️)
+  - 2019/25 [🐦 Christmas Bird Counts](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_25️)
+  - 2019/27 [💰 Media Franchise Revenues](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_27)️
+  - 2019/28 [⚽ FIFA Women's World Cup](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_28)️
+  - 2019/33 [🌿 Roman Emperors](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_33)️
+  - 2019/34 [☢️ Nuclear Explosions](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_34)️
+  - 2019/35 [💛 Simpsons Guest Stars](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_35)️
+  - 2019/36 [🖥️ Moore's Law](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_36)️
+  - 2019/38 [🏞️ US National Park Visits](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_38)
+  - 2019/39 [🏫️ US School Diversity](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_39)️
+  - 2019/40 [🍕 NYC Pizza Ratings](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_40)️
+  - 2019/42 [🚘 Big Cars](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_42)️
+  - 2019/44 [🐿️ NYC Squirrels](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_44)️
+  - 2019/50 [🎤 Replicating Plots (Rap Edition)](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_50)
+  - 2019/51 [🐩 Adoptable Dogs](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_51)
+  - 2019/52 [🎄 Christmas Songs](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2019_52)
+* **Challenges 2020**
+  - 2020/01 [❄️️ White Christmas in Berlin](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_01)
+  - 2020/02 [🔥 Australian Fires](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2020_02)
+<!-- tocstop -->
+
+</details>
 
 #
 
@@ -74,9 +111,7 @@ All contributions can be found [here](https://github.com/Z3tt/TidyTuesday/).
 ***
 
 ## MakeoverMonday
-The [MakeoverMonday challenge]([MakeoverMonday](https://www.makeovermonday.co.uk/) is a weekly social data project started in January 2016 by Andy Kriebel and Andy Cotgreave. The challenge is to use an existing data set and visualization and to turn it into a better, more effective visualization that helps us make information more accessible.
-
-All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
+The [MakeoverMonday challenge]([MakeoverMonday](https://www.makeovermonday.co.uk/) is a weekly social data project started in January 2016 by Andy Kriebel and Andy Cotgreave. The challenge is to use an existing data set and visualization and to turn it into a better, more effective visualization that helps us make information more accessible. All my contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 
 #
 
@@ -96,9 +131,7 @@ All contributions can be found [here](https://github.com/Z3tt/MakeoverMonday/).
 ***
 
 ## SWDchallenge
-The [SWDchallenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used.
-
-All contributions can be found [here](https://github.com/Z3tt/SWDchallenge/).
+The [SWDchallenge](http://www.storytellingwithdata.com/swdchallenge) is a monthly challenge where participants practice and apply data visualization and storytelling skills in a safe space to try something new, irregardles of backgrounds, experience levels, and tools used. All contributions my can be found [here](https://github.com/Z3tt/SWDchallenge/).
 
 #
 
@@ -109,9 +142,43 @@ Berlin Daily Temperatures by [DWD (Deutscher Wetterdienst)](https://www.dwd.de/D
 ***
 
 ## #30DayMapChallenge
-The [#30DayMapChallenge](https://twitter.com/tjukanov/status/1187713840550744066) is a mapping challenge initiated by Topi Tjukanov.
+The [#30DayMapChallenge](https://twitter.com/tjukanov/status/1187713840550744066) is a mapping challenge initiated by Topi Tjukanov. All my contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/).
 
-All contributions can be found [here](https://github.com/Z3tt/30DayMapChallenge/).
+<details>
+  <summary>List of All Contributions (click to expand)</summary>
+
+<!-- toc -->
+* Day 1: [Points](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day01_Points)
+* Day 2: [Lines](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day02_Lines)
+* Day 3: [Polygons](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day03_Polygons)
+* Day 4: [Hexagons](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day04_Hexagons)
+* Day 5: [Raster](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day05_Raster)
+* Day 6: [Blue](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day06_Blue)
+* Day 7: [Red](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day07_Red)
+* Day 8: [Green](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day08_Green)
+* Day 9: [Yellow](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day09_Yellow)
+* Day 10: [Black & White](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day10_BlackWhite)
+* Day 11: [Elevation](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day11_Elevation)
+* Day 12: [Movement](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day12_Movement)
+* Day 13: [Tracks](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day13_Tracks)
+* Day 14: [Boundaries](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day14_Boundaries)
+* Day 15: [Names](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day15_Names)
+* Day 16: [Places](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day16_Places)
+* Day 17: [Zones](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day17_Zones)
+* Day 18: [Globe](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day18_Globe)
+* Day 19: [Urban](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day19_Urban)
+* Day 20: [Rural](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day20_Rural)
+* Day 21: [Environment](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day21_Environment)
+* Day 22: [Built Environment](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day22_BuiltEnvironment)
+* Day 23: [Population](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day23_Population)
+* Day 24: [Statistics](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day24_Statistics)
+* Day 25: [Climate](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day25_Climate)
+* Day 26: [Hydrology](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day26_Hydrology)
+* Day 27: [Resources](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day27_Resources)
+* Day 29: [Experimental](https://github.com/Z3tt/30DayMapChallenge/tree/master/Day29_Experimental)
+<!-- tocstop -->
+
+</details>
 
 #
 
